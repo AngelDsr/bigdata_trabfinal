@@ -1,0 +1,34 @@
+{
+    "id_flamingo": 0,
+    "nome": "flamingo escarlate",
+    "cor": "vermelho",
+    "diretorio_imagem": "./flamingo/corpo/0.png",
+    "acessorios": [
+        {
+            "id_objeto": "231",
+            "nome": "chapeu de praia",
+            "cor": "branco",
+            "diretorio_imagem": "./flamingo/acessorios/cabeca/231.png"
+        },
+        {
+            "id_objeto": "178",
+            "nome": "oculos escuros",
+            "cor": "preto",
+            "diretorio_imagem": "./flamingo/acessorios/rosto/178.png"
+        }
+    ],
+    "marcas": [
+        {
+            "id_marca": "872",
+            "nome": "trovão na asa",
+            "cor": "azul",
+            "diretorio_imagem": "./flamingo/marcas/asa/872.png"
+        },
+        {
+            "id_marca": "513",
+            "nome": "cicatriz no peito",
+            "cor": "rosa",
+            "diretorio_imagem": "./flamingo/marcas/peito/513.png"
+        }
+    ]
+}

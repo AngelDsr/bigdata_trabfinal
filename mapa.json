@@ -1,0 +1,105 @@
+{
+    "id_mapa": 18923,
+    "tamanho": [64, 64],
+    "diretorio_imagem": "./mapa/18923.png",
+    "missoes": [
+        {
+            "id_missao": 154,
+            "titulo": "Pegue os ladrões vermelhos!",
+            "descrição": "Os flamingos vermelhos roubaram os chapéus de praia e os óculos escuros das pessoas. Vá atrás deles e recupere os itens roubados.",
+            "data_de_criação": "24/05/2025 14:30:00",
+            "data_limite": "26/05/2025 23:59:59",
+            "flamingos": [
+                {
+                    "id_flamingo": 0, 
+                    "cor": "vermelho",
+                    "diretorio_imagem": "./flamingo/corpo/0.png",
+                    "acessorios": [
+                        {
+                            "id_objeto": "231",
+                            "nome": "chapeu de praia",
+                            "cor": "branco",
+                            "diretorio_imagem": "./flamingo/acessorios/cabeca/231.png"
+                        },
+                        {
+                            "id_objeto": "178",
+                            "nome": "oculos escuros",
+                            "cor": "preto",
+                            "diretorio_imagem": "./flamingo/acessorios/rosto/178.png"
+                        }
+                    ],
+                    "marcas": [
+                        {
+                            "id_marca": "872",
+                            "nome": "trovão na asa",
+                            "cor": "azul",
+                            "diretorio_imagem": "./flamingo/marcas/asa/872.png"
+                        },
+                        {
+                            "id_marca": "513",
+                            "nome": "cicatriz no peito",
+                            "cor": "rosa",
+                            "diretorio_imagem": "./flamingo/marcas/peito/513.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "flamingos": [
+        {
+            "id_flamingo": 0,
+            "nome": "flamingo escarlate",
+            "cor": "vermelho",
+            "diretorio_imagem": "./flamingo/corpo/0.png",
+            "acessorios": [
+                {
+                    "id_objeto": "231",
+                    "nome": "chapeu de praia",
+                    "cor": "branco",
+                    "diretorio_imagem": "./flamingo/acessorios/cabeca/231.png"
+                },
+                {
+                    "id_objeto": "178",
+                    "nome": "oculos escuros",
+                    "cor": "preto",
+                    "diretorio_imagem": "./flamingo/acessorios/rosto/178.png"
+                }
+            ],
+            "marcas": [
+                {
+                    "id_marca": "872",
+                    "nome": "trovão na asa",
+                    "cor": "azul",
+                    "diretorio_imagem": "./flamingo/marcas/asa/872.png"
+                },
+                {
+                    "id_marca": "513",
+                    "nome": "cicatriz no peito",
+                    "cor": "rosa",
+                    "diretorio_imagem": "./flamingo/marcas/peito/513.png"
+                }
+            ]
+        },
+        {
+            "id_flamingo": 6,
+            "nome": "flamingo tranquilo",
+            "cor": "azul",
+            "diretorio_imagem": "./flamingo/corpo/6.png",
+            "acessorios": [
+                {
+                    "id_objeto": "925",
+                    "nome": "boné",
+                    "cor": "preto",
+                    "diretorio_imagem": "./flamingo/acessorios/cabeca/925.png"
+                },
+                {
+                    "id_objeto": "826",
+                    "nome": "gravata",
+                    "cor": "verde",
+                    "diretorio_imagem": "./flamingo/acessorios/corpo/826.png"
+                }
+            ]
+        }
+    ]
+}
