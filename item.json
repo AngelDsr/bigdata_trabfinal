@@ -1,6 +1,6 @@
 {
     "id_item":9842,
-    "nome":"Poder do gelo",
-    "efeito":"congelar tempo da missão",
+    "nome":"Zero Absoluto",
+    "efeito":"Congelar tempo da missão",
     "diretorio_imagem": "./item/9842.png"
 }
